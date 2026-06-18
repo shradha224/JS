@@ -12,4 +12,24 @@ true=>1 , false=>0
 Number()
 String()
 Boolean()
+
+---PRIMITIVE TYPES---
+7 types:-
+String , Number , Boolean , null , undefined , Symbol , BigInt
+
+---NON PRIMITIVE TYPES---
+Arrays , Objects , Functions
+
 */
+
+//Array
+marvel = ["IM","Hulk","Thor"]
+//Object
+const muObj= {
+    name:"Shradha",
+    status:"active",
+}
+//Function
+let myFunc = function(){
+    console.log("Hi there!")
+}
